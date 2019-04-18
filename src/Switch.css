@@ -1,0 +1,18 @@
+.switch {
+  margin: 0.25rem;
+  padding: 0.6rem 0 0;
+  color: white;
+  font-size: 4.5rem;
+  width: 6.5rem;
+  background-color: #302244;
+  border: 2px solid transparent;
+  border-image: linear-gradient(
+    to bottom right,
+    #b827fc 0%,
+    #2c90fc 25%,
+    #b8fd33 50%,
+    #fec837 75%,
+    #fd1892 100%
+  );
+  border-image-slice: 1;
+}
